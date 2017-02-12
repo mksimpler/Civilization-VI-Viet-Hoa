@@ -1297,7 +1297,7 @@
 			<Text>Chào mừng đến với Civilization</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
-			<Text>Đây là nơi bắt đầu cuộc hành trình từ khởi đầu khiêm tốn để đến với sự vĩ đại.[NEWLINE][NEWLINE]Bạn sẽ chinh phục thế giới trong những trận đánh lớn hay là kẻ đầu tiên gửi người lên sao Hỏa? Nền văn minh của bạn ảnh hưởng tới toàn cầu như thế nào, hay niềm tin tôn giáo đến tận cùng trái đất?[NEWLINE][NEWLINE]Chỉ có thời gian sẽ...[NEWLINE][NEWLINE]Tất cả nền văn minh vĩ đại đều bắt đầu bởi một người lãnh đạo giỏi. Chọn người lãnh đạo mà bạn muốn chơi ở bên dưới:</Text>
+			<Text>Đây là nơi bắt đầu cuộc hành trình từ khởi đầu khiêm tốn để đến với sự vĩ đại.[NEWLINE][NEWLINE]Bạn sẽ chinh phục thế giới trong những trận đánh lớn hay là kẻ đầu tiên gửi người lên sao Hỏa? Nền văn minh của bạn ảnh hưởng tới toàn cầu như thế nào, hay niềm tin tôn giáo đến tận cùng trái đất?[NEWLINE][NEWLINE]Chỉ có thời gian mới trả lời...[NEWLINE][NEWLINE]Tất cả nền văn minh vĩ đại đều bắt đầu bởi một người lãnh đạo giỏi. Chọn người lãnh đạo mà bạn muốn chơi ở bên dưới:</Text>
 		</Row>	
 		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
 			<Text>Cleopatra của đế chế Ai Cập. Một nền văn minh với các đồng minh mạnh mẽ và thành phố lớn.</Text>
@@ -1352,7 +1352,7 @@
 			<Text>Việc này nằm trong tay bạn, Catherine de Medici, dùng những món quà về tri thức và nghệ thuật của bạn và thống nhất người dân. Hãy chỉ đạo kỹ lưỡng để vượt qua những thời điểm khó khăn này, Hoàng Thái Hậu của nước Pháp. Bạn sẽ xây dựng những kỳ quan vĩ đại, thu hút khách du lịch từ khắp nơi trên Trái Đất. Với nhận thức sắc sảo của bạn về mọi thứ, những thứ nhìn thấy được và cả những thứ đang ẩn mình trong bóng tối, đế quốc của bạn chắc chắn sẽ đứng vững trước thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-			<Text>Sẽ có những kẻ đánh giá thấp bạn, nhưng bạn rất tinh ranh và đầy những mưu mẹo, Nữ Hoàng Cleopatra. Sự quyến rũ của bạn sẽ thành lập những liên minh bền vững với những người lãnh đạo mạnh mẽ nhất trên thế giới. Giữ bằng hữu của mình sát bên cạnh và bạn sẽ thấy mình không thể bị động đến, cùng với vinh quang của Ai Cập cổ kính để chiến thắng cả thế giới.</Text>
+			<Text>Sẽ có những kẻ đánh giá thấp bạn, nhưng bạn rất tinh ranh và đầy những mưu mẹo, bạn là Nữ Hoàng Cleopatra. Sự quyến rũ của bạn sẽ lập nên những liên minh bền vững với những người lãnh đạo mạnh mẽ nhất trên thế giới. Giữ bằng hữu của mình sát bên cạnh và bạn sẽ thấy mình không thể bị động đến, cùng với vinh quang của Ai Cập cổ kính để chiến thắng cả thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
 			<Text>Hãy tỏ ra tử tế, Gandhi Bapu, và bạn sẽ thấy bản thân mình được bao quanh bởi những người bạn chân thật. Giữ cho những người Ấn Độ được an toàn, bảo vệ họ bằng những chiến binh cưỡi voi hào hoa. Lòng tin của bạn sẽ dẫn đường bạn đến hòa bình và sự hòa hợp. Giữ cho đầu óc luôn tỉnh táo, và hãy trở thành sự thay đổi mà bạn muốn thấy trong thế giới.</Text>

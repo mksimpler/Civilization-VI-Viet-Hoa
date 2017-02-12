@@ -349,10 +349,10 @@
 			<Text>CHỌN HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_ORDERS">
-			<Text>ĐƠN VỊ CẦN HÀNH ĐỘNG</Text>
+			<Text>ĐƠN VỊ RẢNH</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_ORDERS_TOOLTIP">
-			<Text>Đơn vị cần hành động.</Text>
+			<Text>Đơn vị rảnh.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_PANTHEON">
 			<Text>CHỌN VỊ THẦN</Text>

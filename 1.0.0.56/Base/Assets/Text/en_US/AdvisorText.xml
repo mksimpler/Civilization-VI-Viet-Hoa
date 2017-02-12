@@ -8,7 +8,7 @@
 			<Text>Bản đồ chuyên dùng cho hướng dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
-			<Text>Bình minh của nền văn minh nhân loại.</Text>
+			<Text>Giai đoạn sơ khai.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
 			<Text>Điều kiện tiên quyết cho bình mình của nền văn minh nhân loại</Text>
@@ -68,19 +68,19 @@
 			<Text>An ninh trong thành phố là điều tối quan trọng. Những bộ lạc man di ở gần chúng ta chẳng muốn gì hơn ngoài việc phá hoại, cướp bóc chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
-			<Text>Hãy đào tạo một Chiến Binh để đối phó với các đe dọa.</Text>
+			<Text>Hãy huấn luyện một Chiến Binh để đối phó với các đe dọa.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
-			<Text>Đã bắt đầu đào tạo, nó sẽ mất một chút thời gian trước khi Chiến Binh sẵn sàng. Không có vấn đề nào cần phải chú ý nữa.</Text>
+			<Text>Đã bắt đầu huấn luyện, nó sẽ mất một chút thời gian trước khi Chiến Binh sẵn sàng. Không có vấn đề nào cần phải chú ý nữa.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
-			<Text>Thành phố đang bận đào tạo Chiến Binh cho phòng thủ. Nhưng nền văn minh lớn không chỉ có mỗi quân đội. Chúng tôi có những con người tài năng trong việc nghiên cứu khám phá khoa học. Sử dụng họ để tìm ra Công Nghệ mới giúp phát triển nền văn minh.</Text>
+			<Text>Thành phố đang bận huấn luyện Chiến Binh cho phòng thủ. Nhưng nền văn minh lớn không chỉ có mỗi quân đội. Chúng tôi có những con người tài năng trong việc nghiên cứu khám phá khoa học. Sử dụng họ để tìm ra Công Nghệ mới giúp phát triển nền văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
 			<Text>Một quyết định khôn ngoan, bệ hạ. Công Nghệ này sẽ giúp chúng ta có được [ICON_Production] Sản Phẩm từ những tài nguyên phong phú của trái đất. Tôi sẽ cho ngài biết khi nào nghiên cứu hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
-			<Text>Tâu bệ hạ, đám Quân Man Di thù địch đã bị phát hiện gần [ICON_Capital] Thủ Đô của chúng ta. Nếu để chúng tự tung tự tác, chúng sẽ chắc chắn tấn công và cướp bóc người dân của ta. Những Chiến Binh mới vừa được đào tạo đang đợi lệnh tấn công của ngài!</Text>
+			<Text>Tâu bệ hạ, đám Quân Man Di thù địch đã bị phát hiện gần [ICON_Capital] Thủ Đô của chúng ta. Nếu để chúng tự tung tự tác, chúng sẽ chắc chắn tấn công và cướp bóc người dân của ta. Những Chiến Binh mới vừa được huấn luyện đang đợi lệnh tấn công của ngài!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_10">
 			<Text>Chiến Binh của ta đã chiến thắng! Họ chiến đấu hết sức để bảo vệ người dân khỏi mối nguy hiểm đó. Tuy nhiên, Quân Man Di vẫn còn ganh ghét nền văn minh của chúng ta. Chúng ta nên chuẩn bị sẵn sàng trong trường hợp chúng trở lại với lực lượng mạnh hơn.</Text>
@@ -92,7 +92,7 @@
 			<Text>Vì huấn luyện Chiến Binh đã kết thúc, đã đến lúc chỉ định nhiệm vụ sản xuất mới cho thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_13">
-			<Text>Những vùng đất xung quanh thành phố của chúng ta rất dồi dào tài nguyên nếu chúng ta phát triển chúng. Chúng ta nên đào tạo Thợ Xây để cải thiện những vùng đất xung quanh trong biên giới của chúng ta.</Text>
+			<Text>Những vùng đất xung quanh thành phố của chúng ta rất dồi dào tài nguyên nếu chúng ta phát triển chúng. Chúng ta nên huấn luyện Thợ Xây để cải thiện những vùng đất xung quanh trong biên giới của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_14">
 			<Text>Có những thứ bí ẩn đang đợi chúng ta khám phá trong những vùng đất chưa được thám hiểm ngoài biên giới của chúng ta. Cách duy nhất để tìm hiểu là phải đi khám phá.</Text>
@@ -188,7 +188,7 @@
 			<Text>Thưa ngài, tôi hạnh phúc khi thông báo rằng bởi sự thịnh vượng của thành phố của chúng ta, [ICON_Citizen] Dân Số đã phát triển."</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
-			<Text>[ICON_Citizen] Dân Số đã phát triển từ 1 lên 2. Miễn là ấm no, hạnh phúc, nó sẽ tiếp tục phát triển. [ICON_Citizen] Dân sẽ làm việc xung quanh thành phố để tăng sản lượng.[ICON_Citizen] Dân Số cao thì [ICON_Science] Khoa Học nghiên cứu nhanh, sản xuất [ICON_Production] Sản Phẩm, và [ICON_Culture] Văn Minh cũng tăng theo.</Text>
+			<Text>[ICON_Citizen] Dân Số đã phát triển từ 1 lên 2. Miễn là ấm no, hạnh phúc, dân số sẽ tiếp tục phát triển. [ICON_Citizen] Dân sẽ làm việc xung quanh thành phố để tăng sản lượng.[ICON_Citizen] Dân Số cao thì [ICON_Science] Khoa Học nghiên cứu nhanh, sản xuất [ICON_Production] Sản Phẩm, và [ICON_Culture] Văn Minh cũng tăng theo.</Text>
 		</Row>
 		<Row Tag="LOC_META_125_BODY">
 			<Text>[ICON_Citizen] Dân Số đã phát triển từ 1 lên 2. Miễn là ấm no, hạnh phúc, nó sẽ tiếp tục phát triển. [ICON_Citizen] Dân sẽ làm việc xung quanh thành phố để tăng sản lượng.[ICON_Citizen] Dân Số cao thì [ICON_Science] Khoa Học nghiên cứu nhanh, sản xuất [ICON_Production] Sản Phẩm, và [ICON_Culture] Văn Minh cũng tăng theo.</Text>
@@ -200,7 +200,7 @@
 			<Text>Luôn là một chiến lược tốt rằng không chỉ lập thành phố mới để mở mang bờ cõi, mà còn để phát triển những thành phố đó.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
-			<Text>Trong Civilization VI, ngài có thể có được khoảnh khắc Eureka giúp thúc đẩy Công Nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
+			<Text>Trong Civilization VI, ngài có thể có được khoảnh khắc Eureka giúp thúc đẩy Công Nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như huấn luyện đơn vị, xây dựng kiến trúc.</Text>
 		</Row>
 		
 		
@@ -212,7 +212,7 @@
 			<Text>Đơn vị khám phá như Trinh Sát có nhiều kinh nghiệm trong việc mở rộng bản đồ, khám phá thế giới.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_3">
-			<Text>Số lần xây dựng của Thợ Xây đã hết. Chúng ta cần phải đào tạo thêm Thợ Xây để xây dựng các Công Trình trong thành phố.</Text>
+			<Text>Số lần xây dựng của Thợ Xây đã hết. Chúng ta cần phải huấn luyện thêm Thợ Xây để xây dựng các Công Trình trong thành phố.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_4">
 			<Text>Ban hình chính sách cho chính phủ rất có lợi. Dân chúng đang chờ lệnh của ngài.</Text>
@@ -239,13 +239,13 @@
 			<Text>Tốt nhất là nên cẩn thận khi di chuyển gần với các đơn vị địch. Làm như vậy sẽ thường ép các dơn vị rơi vào "vùng kiểm soát" của địch, làm hạn chế các bước di chuyển sẵn có.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_13">
-			<Text>Thưa Ngài, thành phố của chúng ta sẽ phát triển tốt khi có một vài Nông Trại hoặc các Công Trình khác. Tôi khuyên chúng ta nên đào tạo một Thợ Xây sớm.</Text>
+			<Text>Thưa Ngài, thành phố của chúng ta sẽ phát triển tốt khi có một vài Nông Trại hoặc các Công Trình khác. Tôi khuyên chúng ta nên huấn luyện một Thợ Xây sớm.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_14">
 			<Text>Thợ Xây của ta đã rãnh rỗi. Có lẽ chúng ta nên sử dụng họ để phát triển các vùng đất xung quanh thành phố.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_15">
-			<Text>Thủ Đô của chúng ta đã nở rộ! Nhưng tôi nghĩ đã đến lúc chúng ta bắt đầu xây dựng nền móng ở nơi khác. Có lẽ ta nên đào tạo một Dân Di Cư.</Text>
+			<Text>Thủ Đô của chúng ta đã nở rộ! Nhưng tôi nghĩ đã đến lúc chúng ta bắt đầu xây dựng nền móng ở nơi khác. Có lẽ ta nên huấn luyện một Dân Di Cư.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_16">
 			<Text>Chúng ta đã có một Phái Đoàn. Có thể sử dụng để đạt lợi ích với thành phố tự trị. Trở nên thân thiện hơn với thành phố tự trị sẽ giúp ích rất nhiều cho thành phố.</Text>
@@ -320,7 +320,7 @@
 			<Text>Số lượng Đức Tin tăng lên, và đây là thời gian để định hình niềm tin của chúng ta. Hãy để chúng tôi chọn một Vị Thần để thờ phụng.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_40">
-			<Text>Hỡi thần dân của tôi, chúng ta đã có thể đào tạo ra Nhà Truyền Giáo để bắt đầu tuyên truyền tín ngưỡng lớn của chúng ta vào các vùng đất bên ngoài.</Text>
+			<Text>Hỡi thần dân của tôi, chúng ta đã có thể huấn luyện ra Nhà Truyền Giáo để bắt đầu tuyên truyền tín ngưỡng lớn của chúng ta vào các vùng đất bên ngoài.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_41">
 			<Text>Tâu ngài, tôi tin rằng chúng ta có thể được hưởng lợi từ việc chiêu mộ một Tông Đồ để tuyên truyền tôn giáo của chúng ta. Những thánh nhân này khá là mạnh trong việc cải giáo.</Text>
@@ -350,7 +350,7 @@
 			<Text>Có nhiều loại Thành Phố Tự Trị khác nhau, và mỗi thành phố đó có thể cung cấp những lời ích khác nhau để đáp lại tình hữu nghị giữa chúng ta. Chính quyển của chúng ta, theo thời gian, sẽ cho phép chúng ta đạt được những đặc phái viên để tăng trưởng tình hữu nghị này.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_53">
-			<Text>Chúng ta đã đào tạo đơn vị đánh xa đầu tiên, có thể tấn công kẻ thù từ xa, trong khi không có khả năng cận chiến.</Text>
+			<Text>Chúng ta đã huấn luyện đơn vị đánh xa đầu tiên, có thể tấn công kẻ thù từ xa, trong khi không có khả năng cận chiến.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_54">
 			<Text>Một đơn vị công thành! Cái này chắc chắn sẽ hữu dụng nếu chúng ta chọn việc tham gia vào một cuộc tấn công thành phố.</Text>
@@ -461,7 +461,7 @@
 			<Text>Thánh Alas, tất cả thời gian mà chúng ta tiêu tốn vào chiến tranh đang gây ra thiệt hại cho người dân của chúng ta. Tôi thấy nỗi đau trong mắt họ, và năng suất của chúng ta đã giảm đến mức thấp kỷ lục.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_90">
-			<Text>Công trình Bảo Tàng Khảo Cổ sẽ cho phép ta đào tạo Nhà Khảo Cổ. Có rất nhiều thứ cần học từ thế giới, và họ sẽ giúp chúng ta có được các kiến thức này.</Text>
+			<Text>Công trình Bảo Tàng Khảo Cổ sẽ cho phép ta huấn luyện Nhà Khảo Cổ. Có rất nhiều thứ cần học từ thế giới, và họ sẽ giúp chúng ta có được các kiến thức này.</Text>
 		</Row>
 		
 		
@@ -481,10 +481,10 @@
 			<Text>Khi không còn lựa chọn nào thực hiện nữa, hãy nhấn LƯỢT TIẾP THEO để tiếp tục.</Text>
 		</Row>
 		<Row Tag="LOC_META_11a_BODY">
-			<Text>Nhiệm vụ phải được hoàn tất trước khi ngài có thể kết thúc lượt của mình sẽ xuất hiện bảng thông báo ở góc phải màn hình. Ngay khi quá trình sản xuất kết thúc trong thành phố, ngài nhận được một nhắc nhở cần phải chọn sản phẩm để sản xuất tiếp theo trước khi ngài có thể kết thúc lượt của mình.</Text>
+			<Text>Công việc phải được hoàn tất trước khi ngài có thể kết thúc lượt của mình. Ngay khi quá trình sản xuất kết thúc trong thành phố, ngài nhận được một nhắc nhở cần phải chọn sản phẩm để sản xuất tiếp theo trước khi ngài có thể kết thúc lượt của mình.</Text>
 		</Row>
 		<Row Tag="LOC_META_11_HEAD">
-			<Text>YÊU CẦU HÀNH ĐỘNG</Text>
+			<Text>CẦN SẢN XUẤT</Text>
 		</Row>
 		<Row Tag="LOC_META_11_BODY">
 			<Text>Click Chọn Sản phẩm để sản xuất.</Text>
@@ -496,7 +496,7 @@
 			<Text>Cần phải chọn Nghiên Cứu trước khi kết thúc lượt.</Text>
 		</Row>
 		<Row Tag="LOC_META_13a_BODY">
-			<Text>Một Thợ Xây đã được thêm vào hàng chờ. Sẽ mất vài lượt để hoàn tất quá trình đào tạo. Vì không còn quyết định nào cần được lựa chọn trong lượt này, nút Lượt TIẾP THEO đã được hiển thị.</Text>
+			<Text>Một Thợ Xây đã được thêm vào hàng chờ. Sẽ mất vài lượt để hoàn tất quá trình huấn luyện. Vì không còn quyết định nào cần được lựa chọn trong lượt này, nút Lượt TIẾP THEO đã được hiển thị.</Text>
 		</Row>
 		<Row Tag="LOC_META_13_HEAD">
 			<Text>KẾT THÚC LƯỢT</Text>
@@ -520,7 +520,7 @@
 			<Text>Click vào Chiến Binh để lựa chọn.</Text>
 		</Row>
 		<Row Tag="LOC_META_2_HEAD">
-			<Text>TÌM THẤY MỘT THÀNH PHỐ</Text>
+			<Text>TÌM THẤY THÀNH PHỐ</Text>
 		</Row>
 		<Row Tag="LOC_META_2_BODY">
 			<Text>Click vào THÀNH PHỐ MỚI để đặt thành phố mới ở đây.</Text>
@@ -535,22 +535,22 @@
 			<Text>CHỌN SẢN PHẨM</Text>
 		</Row>
 		<Row Tag="LOC_META_4a_BODY">
-			<Text>Nó là Chọn Sản Phẩm. Từ đây có thể xây nhà, dựng kỳ quan, huấn luyện đơn vị dân sự và quân sự.</Text>
+			<Text>Đây là khung Chọn Sản Phẩm. Từ đây bạn có thể xây nhà, dựng kỳ quan, huấn luyện đơn vị dân sự và quân sự.</Text>
 		</Row>
 		<Row Tag="LOC_META_4b_BODY">
 			<Text>Chọn nút Chiến Binh để huấn luyện một đơn vị Chiến Binh trong thành phố của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_META_5a_BODY">
-			<Text>Civilization là trò chơi theo lượt là trò chơi mà quyết định được đưa ra và hành động sẽ được thực hiện trong một lượt của trò chơi, giống như chơi cờ với bạn bè vậy. Một khi tất cả các người chơi đã hành động xong, một lượt mới sẽ được bắt đầu.</Text>
+			<Text>Civilization là trò chơi chiến thuật theo lượt, đây là kiểu trò chơi mà quyết định được đưa ra và hành động sẽ được thực hiện trong một lượt của trò chơi, giống như chơi cờ với bạn bè vậy. Một khi tất cả các người chơi đã quyết định xong, một lượt mới sẽ được bắt đầu.</Text>
 		</Row>
 		<Row Tag="LOC_META_5b_BODY">
-			<Text>Xây dựng các kiến trúc trong thành phố sẽ cần thời gian. Số lượt cần để xây dựng sẽ được hiển thị trên từng kiến trúc hoặc lính trong menu.[NEWLINE][NEWLINE]Nó được tính toán dựa trên số chi phí của [ICON_Production] Sản Phẩm đó chia cho số năng suất của [ICON_Production] Sản Phẩm của thành phố ngài. Năng suất càng cao, sẽ tốn ít lượt hơn để xây dựng.</Text>
+			<Text>Xây dựng các kiến trúc trong thành phố sẽ cần thời gian. Số lượt cần để xây dựng sẽ được hiển thị trên từng kiến trúc hoặc lính trong menu.[NEWLINE][NEWLINE]Nó được tính toán dựa trên số chi phí của [ICON_Production] Sản Phẩm đó chia cho số năng suất của [ICON_Production] Sản Phẩm trong thành phố. Năng suất càng cao, sẽ tốn ít lượt hơn để xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_META_5_HEAD">
 			<Text>KẾT THÚC LƯỢT</Text>
 		</Row>
 		<Row Tag="LOC_META_5_BODY">
-			<Text>Click vào LƯỢT TIẾP THEO để kết thúc lượt của ngài.</Text>
+			<Text>Click vào LƯỢT TIẾP THEO để kết thúc lượt.</Text>
 		</Row>
 		<Row Tag="LOC_META_7a_BODY">
 			<Text>Bảng Nghiên Cứu hiển thị Công Nghệ mà nền văn minh của ngài đang hướng đến. Còn khi ngài chưa chọn một Công Nghệ nào để nghiên cứu thì bảng sẽ để trống.</Text>
@@ -571,7 +571,7 @@
 			<Text>XÂY ĐÀI TƯỞNG NIỆM</Text>
 		</Row>
 		<Row Tag="LOC_META_27_BODY">
-			<Text>Ngoài đào tạo đơn vị, thành phố có thể tập trung sản xuất để xây dựng các kiến trúc như Đài Tưởng Niệm.[NEWLINE][NEWLINE]Thử xây một cái bằng cách chọn nó trong Hàng chờ sản phẩm.</Text>
+			<Text>Ngoài huấn luyện đơn vị, thành phố có thể tập trung sản xuất để xây dựng các kiến trúc như Đài Tưởng Niệm.[NEWLINE][NEWLINE]Thử xây một cái bằng cách chọn nó trong Hàng chờ sản phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_21">
 			<Text>Với đạo quân man di ở ngay giữa lòng của chúng ta, tôi nghĩ người dân sẽ yên tâm hơn nếu có những chiến binh đóng quân gần thành phố. Yêu cầu họ hãy trở lại và phòng ngự.</Text>
@@ -670,7 +670,7 @@
 			<Text>Việc nuôi dưỡng dân chúng là quan trọng, nhưng chúng ta cũng cần phải bảo vệ họ. Có những bộ tộc man di ở gần chúng ta không muốn gì hơn ngoài việc cướp bóc và cưỡng đoạt những thứ chúng ta có.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_47">
-			<Text>Chúng ta tiếp tục quá trình đào tạo một nhóm Thợ Xây, và nghiên cứu vẫn tiếp tục như kế hoạch. Những Chiến Binh của chúng ta đang ở gần Làng Thổ Dân và sẽ đến nơi sớm thôi.</Text>
+			<Text>Chúng ta tiếp tục quá trình huấn luyện một nhóm Thợ Xây, và nghiên cứu vẫn tiếp tục như kế hoạch. Những Chiến Binh của chúng ta đang ở gần Làng Thổ Dân và sẽ đến nơi sớm thôi.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_48">
 			<Text>Người dân của ta đã nhìn lên trời, và bắt đầu tự hỏi liệu vận mệnh có được hướng dẫn bởi bàn tay của thế lực lớn hơn. Những vị thần tối cao họ là ai, và họ sẽ ban phước lành gì cho chúng ta?</Text>
@@ -751,13 +751,13 @@
 			<Text>Ngài đã hoàn tất xây dựng Đài Tưởng Niệm. Tất cả các kiến trúc đều đóng góp vào sự phát triển của thành phố. Đài Tưởng Niệm sẽ làm tăng [ICON_Culture] Văn minh, kéo theo sự ảnh hưởng tới các ô xung quanh.</Text>
 		</Row>
 		<Row Tag="LOC_META_41_HEAD">
-			<Text>ĐÀO TẠO DÂN DI CƯ</Text>
+			<Text>HUẤN LUYỆN DÂN DI CƯ</Text>
 		</Row>
 		<Row Tag="LOC_META_41_BODY">
-			<Text>Bắt đầu đào tạo Dân Di Cư.</Text>
+			<Text>Bắt đầu huấn luyện Dân Di Cư.</Text>
 		</Row>
 		<Row Tag="LOC_META_41b_BODY">
-			<Text>Mở CHỌN SẢN PHẨM và bắt đầu đào tạo Dân Di Cư. Nhớ rằng, CHỌN SẢN PHẨM có thể được mở từ bảng thông tin thành phố hoặc bảng thông báo ở dưới cùng bên phải.</Text>
+			<Text>Mở CHỌN SẢN PHẨM và bắt đầu huấn luyện Dân Di Cư. Nhớ rằng, CHỌN SẢN PHẨM có thể được mở từ bảng thông tin thành phố hoặc bảng thông báo ở dưới cùng bên phải.</Text>
 		</Row>
 		<Row Tag="LOC_META_42_BODY">
 			<Text>Đơn vị Dân Di Cư và Thợ Xây là phi chiến đấu. Là đơn vị dân sự và không thể tự bảo vệ mình. Tuy nhiên quân đội có thể bảo vệ họ nếu đang đứng cùng một ô.</Text>
@@ -781,7 +781,7 @@
 			<Text>Trong Civilization, một người chơi mất tất cả thành phố sẽ thua cuộc. Cho nên bảo vệ thành phố rất là quan trọng, nhất là [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_META_45_HEAD">
-			<Text>ĐÀO TẠO BẮN NÁ</Text>
+			<Text>HUẤN LUYỆN BẮN NÁ</Text>
 		</Row>
 		<Row Tag="LOC_META_45_BODY">
 			<Text>Thêm một đơn vị Bắn Ná vào hàng chờ sản xuất của thành phố và kết thúc lượt của ngài ngay khi sản xuất hoàn thành.</Text>
@@ -889,7 +889,7 @@
 			<Text>Sau khi nghiên cứu Viết Lách hoàn tất, ngài phải chọn gì đó để tiếp tục nghiên cứu. Nếu muốn một gợi ý, Chăn Nuôi và Đồ Đồng là hai sự lựa chọn tốt.</Text>
 		</Row>
 		<Row Tag="LOC_META_85_BODY">
-			<Text>Chăn Nuôi cho phép xây dựng Bãi Chăn và Trại trong thành phố.[NEWLINE][NEWLINE]Đồ Đồng cho phép quân đội mở khóa Dựng Trại đào tạo Giáo Sĩ.</Text>
+			<Text>Chăn Nuôi cho phép xây dựng Bãi Chăn và Trại trong thành phố.[NEWLINE][NEWLINE]Đồ Đồng cho phép quân đội mở khóa Dựng Trại huấn luyện Giáo Sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_META_86_BODY">
 			<Text>Một số tòa nhà chỉ có thể xây trên Đặc Khu. Thư Viện là một kiến trúc trong Khu Tri Thức. Khi toàn tất Khu Tri Thức, chúng ta có thể xây Thư Viện.</Text>
@@ -907,7 +907,7 @@
 			<Text>Khi trong tham chiến với một nền văn minh khác, tốt nhất là có đủ số lượng đơn vị chiến đấu, vừa để bảo vệ thành trì cũng như chiến đấu ở ngoài nước.</Text>
 		</Row>
 		<Row Tag="LOC_META_90_BODY">
-			<Text>Đôi lúc cần đình chỉ sản xuất để đào tạo đơn vị quân đội phục vụ chiến tranh. Để làm được điều này, chỉ cần thay đổi nhiệm vụ sản xuất sang đơn vị cần đào tạo.</Text>
+			<Text>Đôi lúc cần đình chỉ sản xuất để huấn luyện đơn vị quân đội phục vụ chiến tranh. Để làm được điều này, chỉ cần thay đổi nhiệm vụ sản xuất sang đơn vị cần huấn luyện.</Text>
 		</Row>
 		<Row Tag="LOC_META_91_BODY">
 			<Text>Khi đã đủ lực lượng quân đội, ngài có thể quay lại sản xuất mà không có mất mát gì.</Text>
@@ -973,10 +973,10 @@
 			<Text>Click Next Turn to continue.</Text>
 		</Row>
 		<Row Tag="LOC_META_102_HEAD">
-			<Text>ĐÀO TẠO THỢ XÂY</Text>
+			<Text>HUẤN LUYỆN THỢ XÂY</Text>
 		</Row>
 		<Row Tag="LOC_META_102_BODY">
-			<Text>Click Thợ Xây để bắt đầu đào tạo một đơn vị Thợ Xây.</Text>
+			<Text>Click Thợ Xây để bắt đầu huấn luyện một đơn vị Thợ Xây.</Text>
 		</Row>
 		<Row Tag="LOC_META_103_BODY">
 			<Text>Thành phố là nền tảng bất kỳ của một nền văn minh lớn. Kích thước thành phố được đại diện bởi [ICON_Citizen] Dân số được đặt bên trái tên của nó.</Text>
@@ -985,7 +985,7 @@
 			<Text>Một đơn vị Bắn Ná đã hoàn tất huấn luyện trong thủ đô của ngài. Bắn Ná là đơn vị tầm xa, cho phép họ tấn công từ khoảng cách mà không phải tiếp cận đơn vị cận chiến. Điều này sẽ giữ họ khỏi bị thương ngược lại trong khi tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_META_104_BODY">
-			<Text>Mỗi thành phố đều tuyên bố vùng lãnh thổ xung quanh. Những vùng đất này được chỉ định bởi các đường viền xung quanh thành phố. Các tính chất độc đáo bên trong biên giới sẽ ảnh hưởng sâu sắc tới tiền năng, thế mạnh của mỗi thành phố.</Text>
+			<Text>Mỗi thành phố đều tuyên bố vùng lãnh thổ xung quanh. Những vùng đất này được chỉ định bởi các đường viền xung quanh thành phố. Các tính chất độc đáo bên trong biên giới sẽ ảnh hưởng sâu sắc tới tiềm năng, thế mạnh của mỗi thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_META_104_OTHER_BODY">
 			<Text>Các đơn vị tầm xa thường có sức mạnh phòng thủ thấp hơn cận chiến, vì vậy tốt hơn là giữ cho họ gần các đơn vị khác để được bảo vệ.</Text>
@@ -1024,10 +1024,10 @@
 			<Text>Mỗi thành phố tạo ra các sản lượng ở mỗi lượt. Chúng được lấy từ các ô lục giác trong biên giới.</Text>
 		</Row>
 		<Row Tag="LOC_META_107_BODY">
-			<Text>[ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm là hai trong số sản lượng.[NEWLINE][NEWLINE] [ICON_Food] Thực phẩm phát triển thì tăng [ICON_Citizen] Dân số. [NEWLINE][NEWLINE] [ICON_Production] Sản phẩm sử dụng để sản xuất đơn vị, xây dựng khu vực và kiến trúc... Có [ICON_Production] Sản phẩm nhiều thì có thể xây dựng mọi thứ nhanh hơn.</Text>
+			<Text>[ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm là hai trong số sản lượng.[NEWLINE][NEWLINE] [ICON_Food] Thực phẩm nhiều thì tăng [ICON_Citizen] Dân số. [NEWLINE][NEWLINE] [ICON_Production] Sản phẩm sử dụng để sản xuất đơn vị, xây dựng khu vực và kiến trúc... Có [ICON_Production] Sản phẩm nhiều thì có thể xây dựng mọi thứ nhanh hơn.</Text>
 		</Row>
 		<Row Tag="LOC_META_108_BODY">
-			<Text>Tuy nhiên, mỗi ô lục giác cần phải được làm hoạt động bởi [ICON_Citizen] Dân số để tạo ra sản lượng.[NEWLINE][NEWLINE]Mỗi [ICON_Citizen] Dân số có thể làm việc với một ô trong phạm vi biên giới.</Text>
+			<Text>Tuy nhiên, mỗi ô lục giác cần phải được làm sản xuất bởi [ICON_Citizen] Dân số để tạo ra sản lượng.[NEWLINE][NEWLINE]Mỗi [ICON_Citizen] Dân số có thể làm việc với một ô trong phạm vi biên giới.</Text>
 		</Row>
 		<Row Tag="LOC_META_109_BODY">
 			<Text>Phát triển [ICON_Citizen] Dân số rất quan trọng để có thể tận dụng hết tài nguyên trong biên giới.</Text>
@@ -1066,10 +1066,10 @@
 			<Text>Giữ Chiến Binh của ngài bên trong thành phố để phòng ngư.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_4">
-			<Text>ĐÀO TẠO DÂN DI CƯ: Hoàn tất đào tạo Dân Di Cư.</Text>
+			<Text>HUẤN LUYỆN DÂN DI CƯ: Hoàn tất huấn luyện Dân Di Cư.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
-			<Text>Hoàn thành đào tạo Dân Di Cư để mở rộng nền văn minh của ngài.</Text>
+			<Text>Hoàn thành huấn luyện Dân Di Cư để mở rộng nền văn minh của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_5">
 			<Text>THÀNH LẬP THÀNH PHỐ MỚI: Đoàn hộ tống tới vị trí quy định.</Text>
@@ -1153,10 +1153,10 @@
 			<Text>Các tiến bộ công nghệ đạt được thông qua nghiên cứu.[NEWLINE][NEWLINE]Sau khi hoàn thành sẽ mở khóa những cách thức mới để khai thác đất đai, các đơn vị quân sự mới...</Text>
 		</Row>
 		<Row Tag="LOC_META_111_BODY">
-			<Text>Chỉ đào tạo đơn vị mới sử dụng [ICON_Production] Sản phẩm, còn nghiên cứu công nghệ mới sử dụng [ICON_Science] Khoa học.</Text>
+			<Text>Chỉ huấn luyện đơn vị mới sử dụng [ICON_Production] Sản phẩm, còn nghiên cứu công nghệ sử dụng [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_META_112_BODY">
-			<Text>Mỗi thành phố trong đế chế của ngài tăng trưởng một lượng nhỏ [ICON_Science] Khoa Học mỗi lượt. Các dự án nghiên cứu của ngài hoàn tất nhanh như thế nào sẽ quyết định bằng tổng số tất cả điểm [ICON_Science] Khoa Học của tất cả thành phố.[NEWLINE][NEWLINE]Càng nhiều [ICON_Science] Khoa Học ngài kiếm được, các nghiên cứu công nghệ mới sẽ càng nhanh hơn.</Text>
+			<Text>Mỗi thành phố trong đế chế tăng trưởng một lượng nhỏ [ICON_Science] Khoa Học mỗi lượt. Các dự án nghiên cứu hoàn tất nhanh như thế nào sẽ được quyết định bằng tổng số tất cả điểm [ICON_Science] Khoa Học của tất cả thành phố.[NEWLINE][NEWLINE]Càng nhiều [ICON_Science] Khoa Học, các nghiên cứu công nghệ mới sẽ càng nhanh hơn.</Text>
 		</Row>
 		<Row Tag="LOC_META_SELECT_IRRIGATION">
 			<Text>Chọn công nghệ Tưới Tiêu.</Text>
@@ -1168,7 +1168,7 @@
 			<Text>Click NGHIÊN CỨU để mở bảng nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_META_113_BODY">
-			<Text>Vì đây là hướng dẫn nên chúng ta bỏ qua việc sản xuất đơn vị này. Thông thường, việc sản xuất cần một số lượt nhất định để hoàn tất.</Text>
+			<Text>Vì đây là Hướng dẫn nên chúng ta bỏ qua việc sản xuất đơn vị này. Thông thường, việc sản xuất cần một số lượt nhất định để hoàn tất.</Text>
 		</Row>
 		<Row Tag="LOC_META_12_BODY">
 			<Text>Nhấp chuột vào thông báo "Chọn Sản Phẩm" để mở menu Sản Phẩm của thành phố.</Text>
@@ -1309,7 +1309,7 @@
 			<Text>Có thể chọn bỏ qua [ICON_GreatPerson] Vĩ nhân nếu ngài không muốn. Nếu làm điều này, người chơi khác sẽ có cơ hội chiêu mộ được họ. Tuy nhiên, điểm [ICON_GreatPerson] Vĩ nhân của ngài sẽ được lưu lại cho một cơ hội trong tương lai.</Text>
 		</Row>
 		<Row Tag="LOC_META_141_BODY">
-			<Text>Ngài vừa hoàn tất đào tạo một THƯƠNG GIA. THƯƠNG GIA có thể đi lại giữa hai thành phố và tạo ra thu nhập.</Text>
+			<Text>Ngài vừa hoàn tất huấn luyện một THƯƠNG GIA. THƯƠNG GIA có thể đi lại giữa hai thành phố và tạo ra thu nhập.</Text>
 		</Row>
 		<Row Tag="LOC_META_142_BODY">
 			<Text>Nền văn minh có thể thiết lập một số giới hạn của [ICON_TradeRoute] TUYẾN ĐƯỜNG THƯƠNG MẠI. Có thể mở rộng khả năng này với Khu thương mại hoặc CẢNG.</Text>
@@ -1321,7 +1321,7 @@
 			<Text>Nhấp chọn hành động 'Tạo Tuyến Đương Thương Mại'.</Text>
 		</Row>
 		<Row Tag="LOC_META_143_BODY">
-			<Text>Không có những thành phố khác để trao đổi bây giờ. Tiếp tục khám phá bản đồ, hoặc đào tạo một Di Dân và sáng lập một thành phố mới của riêng bạn.</Text>
+			<Text>Không có những thành phố khác để trao đổi bây giờ. Tiếp tục khám phá bản đồ, hoặc huấn luyện một Di Dân và sáng lập một thành phố mới của riêng bạn.</Text>
 		</Row>
 		<Row Tag="LOC_META_144_BODY">
 			<Text>Đây là bảng điều chỉnh THƯƠNG MẠI, cho thấy những thành phố mà ngài có thể giao dịch. THƯƠNG GIA có một phạm vị giới hạn cho nên cần phải tạo những cầu nối để liên kết được xa hơn.</Text>
@@ -1408,85 +1408,85 @@
 			<Text>Một Thành Phố Tự Trị là một nền văn minh nhỏ, không thể chiến thắng trò chơi. Thiết lập những mối quan hệ ngoại giao tốt với họ là 1 điều có lợi. Nó sẽ hoàn thành bằng cách gửi Phái Đoàn đến Thành Phố Tự Trị.</Text>
 		</Row>
 		<Row Tag="LOC_META_169_BODY">
-			<Text>THƯƠNG GIA có thể được đào tạo tại một trong những thành phố của ngài. Ngoài việc cung cấp thêm [ICON_Gold] Vàng và lợi ích khác cho nền văn minh, [ICON_TradeRoute] TUYẾN ĐƯỜNG THƯƠNG MẠI rất cần thiết cho việc xây dựng giao thông giữa các thành phố.</Text>
+			<Text>THƯƠNG GIA có thể được huấn luyện tại một trong những thành phố của ngài. Ngoài việc cung cấp thêm [ICON_Gold] Vàng và lợi ích khác cho nền văn minh, [ICON_TradeRoute] TUYẾN ĐƯỜNG THƯƠNG MẠI rất cần thiết cho việc xây dựng giao thông giữa các thành phố.</Text>
 		</Row>
 		<!---->
 		<!--ROCCO LINES-->
 		<!---->		
 		<Row Tag="ADVISOR_LINE_FTUE_1ALT_1">
-			<Text>Chào mừng Cleopatra. Vận mệnh người dân của chúng tôi nằm trong tay người. Thât tuyệt vời khi trách nhiệm này được đặt vào người. Tôi có thể sẽ phục vụ người.</Text>
+			<Text>Chào mừng Cleopatra. Vận mệnh người dân của chúng tôi nằm trong tay người. Thât tuyệt vời khi trách nhiệm này được đặt vào người. Tôi rất vinh hạnh được phục vụ người.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_1ALT_2">
-			<Text>Chào mừng Gilgamesh. Vận mệnh người dân của chúng tôi nằm trong tay người. Thât tuyệt vời khi trách nhiệm này được đặt vào người. Tôi có thể sẽ phục vụ người.</Text>
+			<Text>Chào mừng Gilgamesh. Vận mệnh người dân của chúng tôi nằm trong tay người. Thât tuyệt vời khi trách nhiệm này được đặt vào người. Tôi rất vinh hạnh được phục vụ người.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_2_ALT">
-			<Text>Chúng ta đã lang thang khắp thế giới này quá lâu mà không có nơi nào cho riêng mình. Đã đến lúc chúng ta định cư, tìm một mảnh đất cắm rìu.</Text>
+			<Text>Chúng ta đã lang thang khắp thế giới này quá lâu mà không có nơi nào cho riêng mình. Đã đến lúc chúng ta định cư, tìm một mảnh đất để cắm rìu.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_22a">
 		   <Text>Dân di cư dũng cảm đang đợi lệnh. Chúng ta nên đặt thành phố đầu tiên ở đây.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_3_ALTV2">
-		   <Text>Từ những hạt giống của thành phố nhỏ này, ngài sẽ phát triển một đế chế. Nhưng để thực sự phát triển mạnh đầu tiên chúng ta phải xem người dân cần gì?</Text>
+		   <Text>Từ những hạt giống của thành phố nhỏ này, ngài sẽ phát triển một đế chế. Nhưng để thực sự phát triển mạnh, đầu tiên chúng ta phải xem người dân cần gì?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_23">
 		   <Text>Những mảnh đất phía sau chúng ta có sự giàu có vô kể cũng như những nguy hiểm. Ngài phải cân nhắc cẩn thận khi lựa chọn điểm đến cuối cùng.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_36">
-			<Text>Bây giờ nó nhỏ nhưng có thể phát triển nếu ngài cho phép. Số phận của nó phụ thuộc vào ngài.</Text>
+			<Text>Bây giờ thành phố còn nhỏ nhưng có thể phát triển nếu ngài cho phép. Số phận của nó phụ thuộc vào ngài.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_37a">
 			<Text>Rất may mắn là vùng đất xung quanh giàu tài nguyên. Phát triển là chìa khóa của sự tồn tại...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_38">
-			<Text>Chúng ta may mắn có được vùng đất rộng lớn. Tuy nhiên nền văn minh cần phải có người, không đơn giản chỉ gồm trái đất.</Text>
+			<Text>Chúng ta may mắn có được vùng đất rộng lớn. Tuy nhiên một nền văn minh cần phải có con người, không đơn giản chỉ có Trái Đất.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
-		   <Text>Vùng đất như này sẽ thu hút sự chú ý của quân man di. Cần phải chiến đấu để tồn tại.</Text>
+		   <Text>Vùng đất màu mỡ như thế này sẽ thu hút sự chú ý của quân man di. Chúng ta cần phải chiến đấu để tồn tại.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
-			<Text>Thành phố cần Chiến binh.</Text>
+			<Text>Thành phố cần có Chiến binh.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_51a">
 			<Text>Để tồn tại trong vùng đất này, chúng ta phải nỗ lực. Chỉ khi đó, chúng ta có thể làm chủ được thế giới này.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_6ALTV_1">
-			<Text>Bảo vệ thành phố đang là mối quan tâm. Hãy đào tạo một Chiến binh.</Text>
+			<Text>Bảo vệ thành phố đang là mối quan tâm cần thiết. Ngài hãy huấn luyện một Chiến binh.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_61">
-		   <Text>Đã bắt đầu đào tạo. Nhân dân cảm thấy an tâm.</Text>
+		   <Text>Bắt đầu huấn luyện Chiến binh. Người dân đã cảm thấy an tâm hơn.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_62">
-			<Text>Đế chế không làm việc qua đêm. Đây là tất cả của ngày hôm nay.</Text>
+			<Text>Đế chế không làm việc qua đêm. Đây là tất cả công việc của ngày hôm nay.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_63">
 			<Text>Không còn vấn đề nào để ngài bận tâm cả.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_7ALT">
-			<Text>Chiến binh đang được đào tạo. Nhưng nếu chúng ta có thể phòng thủ được quân man di này thì việc khám phá các khu vực khác để phát triển là rất cần thiết.</Text>
+			<Text>Chiến binh đang được huấn luyện. Bên cạnh việc chúng ta có thể phòng thủ được quân man di thì việc khám phá các khu vực khác để phát triển là rất cần thiết.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_71">
-			<Text>Có những bộ óc thiên tài sẽ mở khóa bí mật thế giới. Chúng ta cần phải định hướng cho họ..</Text>
+			<Text>Có những bộ óc thiên tài sẽ mang đến nhiều thành tựu cho nhân loại. Chúng ta cần phải định hướng cho họ..</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_8ALT">
-		   <Text>Thật xuất sắc. Sự hiểu biết của người dân đã tăng lên, vì vậy chúng ta có khả năng khai thác tốt hơn và nâng cao năng suất lao động. Chúng ta phải cho họ thời gian làm việc.</Text>
+		   <Text>Thật đáng mừng. Sự hiểu biết của người dân đã tăng lên, vì vậy chúng ta có thể khai thác tốt hơn và nâng cao năng suất lao động. Chúng ta phải cho họ thời gian để làm việc.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_81">
 			<Text>Không còn vấn đề cần có sự chú ý của ngài vào hôm nay.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_9ALT">
-			<Text>Quân man di tiếp cận thành phố của chúng ta!  Bọn chúng sẽ không bỏ qua chúng ta.</Text>
+			<Text>Quân man di đã tiếp cận thành phố. Bọn chúng sẽ không bỏ qua chúng ta.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_92">
-			<Text>Chúng ta không cho phép chúng cướp bóc, phá hủy những gì đã gây dựng. Chiến binh cũng vừa hoàn thành đào tạo. Hãy để họ chiến đấu!</Text>
+			<Text>Chúng ta không cho phép chúng cướp bóc, phá hủy những gì đã gây dựng. Chiến binh cũng vừa hoàn thành huấn luyện. Hãy để họ chiến đấu!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_94">
-			<Text>Chiến Binh giống như thanh gươm để kết liễu kẻ thù. Họ chỉ cần bàn tay của ngài dẫn lối</Text>
+			<Text>Chiến Binh giống như thanh gươm để kết liễu kẻ thù. Họ chỉ cần bàn tay của ngài dẫn lối.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_10ALT">
-			<Text>Chiến thắng! Những Kẻ Man Di đã có một bài học rằng chúng ta không phải kẻ dễ bắt nạt.. Tuy nhiên, chúng sẽ trở lại, và lần sau, tôi sợ rằng chúng sẽ không nhẹ nhàng như thế này đâu!</Text>
+			<Text>Chúng ta đã chiến thắng! Những Kẻ Man Di đã biết rằng chúng ta không phải kẻ dễ bị bắt nạt.. Tuy nhiên, chúng sẽ trở lại, và lần sau, thần sợ chúng sẽ không nhẹ nhàng như thế này đâu!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_12ALT">
-			<Text>Chúng ta nên tranh thủ thời gian tạm lắng này của cuộc chiến. Với các Chiến Binh đã sẵn sàng, chúng ta có thể tập trung vào năng lực sản suất của thành phố.</Text>
+			<Text>Chúng ta nên tranh thủ thời gian tạm lắng này để gia tăng vào năng lực sản xuất của thành phố.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_121">
 			<Text>Hoàn hảo. Các kỹ năng của thợ xây sẽ cải thiện đáng kể nền văn minh.</Text>
@@ -1498,13 +1498,13 @@
 			<Text>Chúng ta không còn vấn đề nào để ngài bận tâm hôm nay.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_14_ALT">
-			<Text>Trong khi các Thợ Xây đang đào tạo để cải thiện cuộc sống trong biên giới, chúng ta cũng sẽ không bỏ qua các vùng đất ở phía xa. Cách duy nhất để thực sự làm chủ thế giới là phải hiểu nó.</Text>
+			<Text>Trong khi các Thợ Xây đang được huấn luyện, chúng ta cũng sẽ không bỏ qua các vùng đất ở phía xa. Cách duy nhất để thực sự làm chủ thế giới là phải hiểu nó.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_15ALT">
 			<Text>Ngoài chiến đấu, các Chiến Binh là những nhà thám hiểm lý tưởng trong thế giới loạn lạc chiến tranh này. Ngài chỉ cần ra lệnh và họ sẽ đi tới những khu vực chưa được biết đến.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_151">
-			<Text>Một mình, trên những đôi chân, quân đội của chúng ta đã bị tổn thất nặng nề trên các vùng đất hoang dã. Có lẽ đã là 1 con đường yên ả hơn...</Text>
+			<Text>Quân đội của chúng ta sẽ di chuyển khó khăn hơn trên những vùng đất gồ ghề. Có lẽ chúng ta nên chọn một con đường bằng phẳng.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_153">
 			<Text>Với nỗ lực của Chiến binh, họ tìm thấy một ngôi làng thổ dân nhỏ.</Text>
@@ -1537,7 +1537,7 @@
 			<Text>Việc khai phá có thể mang đến những phần thưởng, nhưng đừng quên sự an toàn của Thủ đô. Ta nên chuyển các Chiến binh về nhà để bảo vệ nó.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_22_ALT">
-			<Text>Trinh Sát của ta đang đợi lệnh. Họ phải khám phá và dạy ta về những vùng đất mới chưa được khám phá.</Text>
+			<Text>Trinh Sát của ta đang đợi lệnh. Họ phải khám phá và chỉ ta về những vùng đất mới chưa được khám phá.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_23_ALT">
 			<Text>Không thể làm gì nữa trong lượt này.</Text>
